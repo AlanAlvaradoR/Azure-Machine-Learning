@@ -74,3 +74,5 @@ https://aka.ms/bike-rentals
 26. Se da click en "siguiente"
 
 27. Se da click en "finalizar"
+
+28. Esperar a que termine (puede durar bastante tiempo)
