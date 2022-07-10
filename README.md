@@ -76,3 +76,15 @@ https://aka.ms/bike-rentals
 27. Se da click en "finalizar"
 
 28. Esperar a que termine (puede durar bastante tiempo)
+
+29. Una vez terminado, se da click en el link del nombre de nuestro experimento.
+
+30. Se da click en el respectivo "Nombre para mostrar"
+
+31. En el apartado de "resumen del mejor modelo" se da click en el nombre del algoritmo correspondiente.
+
+32. A partir de este punto se pueden consultar métricas e información detallada del algoritmo usado por ML para solucionar el problema. Se da click en "implementar" y luego en "implementar servicio web"
+
+33. Se rellenan los campos requeridos (si se va a usar en aplicaciones industriales o con muchos accesos usar Kubernetes, en caso contrario usar instancia de contenedor). Se habilita autenticación y se da click en "implementar". De esta forma se creará una API consumible con el algoritmo de ML que se creó.
+
+34. Para obtener el link a la API para consumirlo, se regresa al menú principal del recurso, en el apartado laterial izquierdo se da click en "Puntos de conexión" y después en en recurso que nos interesa, luego en el apartado "consumir" o "prueba" se mostrarán los links a las API.
