@@ -88,3 +88,4 @@ https://aka.ms/bike-rentals
 33. Se rellenan los campos requeridos (si se va a usar en aplicaciones industriales o con muchos accesos usar Kubernetes, en caso contrario usar instancia de contenedor). Se habilita autenticación y se da click en "implementar". De esta forma se creará una API consumible con el algoritmo de ML que se creó.
 
 34. Para obtener el link a la API para consumirlo, se regresa al menú principal del recurso, en el apartado laterial izquierdo se da click en "Puntos de conexión" y después en en recurso que nos interesa, luego en el apartado "consumir" o "prueba" se mostrarán los links a las API.
+**NOTA:** Puede tardar hasta 15min en aparecer el link de API
